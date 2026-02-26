@@ -1,0 +1,40 @@
+{
+  "name": "yfiles",
+  "owner": {
+    "name": "yWorks GmbH",
+    "email": "support@yworks.com"
+  },
+  "metadata": {
+    "description": "Official yWorks marketplace for Claude Code plugins — graph visualization, diagramming, and yFiles for HTML development tools.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "yfiles-for-html",
+      "source": {
+        "source": "github",
+        "repo": "yworks/yfiles-for-html-claude-plugin"
+      },
+      "description": "Comprehensive skills for developing yFiles for HTML applications including initialization, graph building, layouts, custom styling, and interactivity features",
+      "version": "0.1.0",
+      "author": {
+        "name": "yWorks GmbH",
+        "email": "yfileshtml@yworks.com"
+      },
+      "homepage": "https://github.com/yworks/yfiles-for-html-claude-plugin",
+      "repository": "https://github.com/yworks/yfiles-for-html-claude-plugin",
+      "license": "MIT",
+      "keywords": [
+        "yfiles",
+        "graph",
+        "diagram",
+        "visualization",
+        "layout",
+        "custom-styles",
+        "graph-builder",
+        "interactive"
+      ],
+      "category": "development"
+    }
+  ]
+}
