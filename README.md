@@ -20,9 +20,9 @@ Then install any plugin from the marketplace:
 
 ### yfiles-for-html
 
-[Plugin Repository](https://github.com/yworks/yfiles-for-html-claude-plugin)
+[Plugin Repository](https://github.com/yworks/yfiles-for-html-skills)
 
-Comprehensive Claude Code skills for developing [yFiles for HTML](https://www.yworks.com/products/yfiles-for-html) applications.
+Comprehensive Claude Code skills for developing [yFiles for HTML](https://www.yfiles.com) applications.
 
 **Install:**
 
