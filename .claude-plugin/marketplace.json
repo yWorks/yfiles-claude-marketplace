@@ -13,7 +13,7 @@
       "name": "yfiles-for-html",
       "source": {
         "source": "github",
-        "repo": "yworks/yfiles-for-html-claude-plugin"
+        "repo": "yworks/yfiles-for-html-skills"
       },
       "description": "Comprehensive skills for developing yFiles for HTML applications including initialization, graph building, layouts, custom styling, and interactivity features",
       "version": "0.1.0",
@@ -21,8 +21,8 @@
         "name": "yWorks GmbH",
         "email": "yfileshtml@yworks.com"
       },
-      "homepage": "https://github.com/yworks/yfiles-for-html-claude-plugin",
-      "repository": "https://github.com/yworks/yfiles-for-html-claude-plugin",
+      "homepage": "https://github.com/yworks/yfiles-for-html-skills",
+      "repository": "https://github.com/yworks/yfiles-for-html-skills",
       "license": "MIT",
       "keywords": [
         "yfiles",
